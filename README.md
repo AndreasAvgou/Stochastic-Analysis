@@ -1,6 +1,6 @@
 # Stochastic Analysis
 
-Stochastic Analysis Projects
+Summary of Stochastic Analysis Projects
 
 1) [White Noice Process](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/White%20Noise%20Process)
 2) [Wiener Process](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/Wiener%20Process)
