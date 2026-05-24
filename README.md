@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="520" height="405" alt="introduction-to-stochastic-processes-I-_STATS217" src="https://github.com/user-attachments/assets/3553f019-5b4b-4ca8-9347-e758c463eb4e" />
+  <img width="2000" height="717" alt="introduction-to-stochastic-processes-I-_STATS217" src="https://github.com/user-attachments/assets/3553f019-5b4b-4ca8-9347-e758c463eb4e" />
 
 
  # Stochastic Analysis
