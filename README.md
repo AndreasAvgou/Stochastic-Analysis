@@ -1,12 +1,9 @@
 <div align="center">
   <img width="2000" height="717" alt="αρχείο λήψης" src="https://github.com/user-attachments/assets/86dc22df-3f07-4847-8096-1fd32995de3b" />
 
- # Stochastic Analysis
+ # Summary of Stochastic Analysis Projects
   
 </div>
-
-
-Summary of Stochastic Analysis Projects
 
 1) [White Noice Process](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/White%20Noise%20Process)
 2) [Wiener Process](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/Wiener%20Process)
